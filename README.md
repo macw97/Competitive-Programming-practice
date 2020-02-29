@@ -16,3 +16,4 @@ Code Warriors complete Kata which are assigned a rank, which in turn earns them 
 ***6kyu:***
 - Metaprogramming Factorial
 - Metaprogramming Ackermann Function
+- Metaprogramming Make String
