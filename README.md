@@ -7,6 +7,7 @@ Code Warriors complete Kata which are assigned a rank, which in turn earns them 
 
 ***4kyu:***
 - Path Finding Algorithm
+- #2 Path Finding Algorithm
 - Sudoku Validater
 - Large Factorials
 
