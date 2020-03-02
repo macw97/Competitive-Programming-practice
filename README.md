@@ -6,6 +6,7 @@ Code Warriors complete Kata which are assigned a rank, which in turn earns them 
 **Some of my codewars solutions:** 
 ***3kyu:***
 - The alpinist (dijkstra)
+
 ***4kyu:***
 - Path Finding Algorithm
 - #2 Path Finding Algorithm
