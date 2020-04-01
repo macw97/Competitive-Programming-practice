@@ -6,19 +6,20 @@ Code Warriors complete Kata which are assigned a rank, which in turn earns them 
 **Some of my codewars solutions:** 
 
 ***3kyu:***
-- The alpinist (dijkstra)
+- The alpinist (dijkstra) (C++)
 
 ***4kyu:***
-- Path Finding Algorithm
-- #2 Path Finding Algorithm
-- Sudoku Validater
-- Large Factorials
+- Path Finding Algorithm (C++)
+- #2 Path Finding Algorithm (C++)
+- Sudoku Validater (C++)
+- Large Factorials (C++)
 
 ***5kyu:***
-- Chain adding function
+- Chain adding function (C++)
+- ROT13 (C#)
 
 ***6kyu:***
-- Metaprogramming Factorial
-- Metaprogramming Ackermann Function
-- Metaprogramming Make String
-- Detect Panagram
+- Metaprogramming Factorial (C++)
+- Metaprogramming Ackermann Function (C++)
+- Metaprogramming Make String (C++)
+- Detect Panagram (C#)
