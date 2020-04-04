@@ -17,6 +17,7 @@ Code Warriors complete Kata which are assigned a rank, which in turn earns them 
 ***5kyu:***
 - Chain adding function (C++)
 - ROT13 (C#)
+- Directions Reduction (C#)
 
 ***6kyu:***
 - Metaprogramming Factorial (C++)
