@@ -15,6 +15,7 @@ Code Warriors complete Kata which are assigned a rank, which in turn earns them 
 - Large Factorials (C++)
 
 ***5kyu:***
+- Array to Binary Tree (C++)
 - Chain adding function (C++)
 - ROT13 (C#)
 - Directions Reduction (C#)
