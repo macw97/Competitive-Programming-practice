@@ -1,3 +1,6 @@
+/*
+https://www.codewars.com/kata/58e61f3d8ff24f774400002c
+*/
 #include "pch.h"
 #include <iostream>
 #include <vector>
