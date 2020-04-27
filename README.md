@@ -12,6 +12,7 @@ Code Warriors complete Kata which are assigned a rank, which in turn earns them 
 - The alpinist (dijkstra) (C++)
 
 ***4kyu:***
+- Number of proper fractions(C++)
 - Path Finding Algorithm (C++)
 - #2 Path Finding Algorithm (C++)
 - Sudoku Validater (C++)
