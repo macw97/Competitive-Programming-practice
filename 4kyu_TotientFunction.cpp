@@ -1,3 +1,6 @@
+/*
+https://www.codewars.com/kata/55b7bb74a0256d4467000070
+*/
 #include <iostream>
 using namespace std;
 unsigned long long properFractions(unsigned long long n)
