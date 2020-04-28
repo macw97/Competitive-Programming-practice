@@ -12,7 +12,7 @@ Code Warriors complete Kata which are assigned a rank, which in turn earns them 
 - The alpinist (dijkstra) (C++)
 
 ***4kyu:***
-- Manacher's algorithm for O(n) longest palindromic substring (C++)
+- Manacher's algorithm O(n) for longest palindromic substring (C++)
 - Totient function(C++)
 - Path Finding Algorithm (C++)
 - #2 Path Finding Algorithm (C++)
