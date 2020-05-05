@@ -12,6 +12,7 @@ Code Warriors complete Kata which are assigned a rank, which in turn earns them 
 - The alpinist (dijkstra) (C++)
 
 ***4kyu:***
+- Lagrange's four-square theorem O(√n) in minimum sum of perfect squares (C++)
 - Manacher's algorithm O(n) for longest palindromic substring (C++)
 - Totient function(C++)
 - Path Finding Algorithm (C++)
