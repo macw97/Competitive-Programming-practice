@@ -15,15 +15,6 @@ bool is_perfect(int number)
 int sum_of_squares(int n) {
     if (is_perfect(n))
     return 1;
-  //n%4==0
-  while ((n & 3) == 0)
-  {
-    n >>= 2;
-  }
-  //n%8==7
-  if ((n & 7) == 7)
-    return 4;
-
   int sq = (int)sqrt(n);
   for (int i = 1; i <= sq; i++)
   {
@@ -32,5 +23,14 @@ int sum_of_squares(int n) {
       return 2;
     }
   }
+  
+  while (n %4 == 0)
+  {
+    n/=4;
+  }
+  if (n%8 == 7)
+    return 4;
+
+  
   return 3;
 }
