@@ -18,8 +18,8 @@ public:
         return count;
     }
     vector<int> countBits(int num) {
-        vector<int> count;
-        for(int i=0;i<=num;i++)
+        vector<int> count(num+1,0);
+        for(int i=1;i<=num;i++)
         {
             count.push_back(countOnes(i));
         }
