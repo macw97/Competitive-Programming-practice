@@ -3,7 +3,7 @@ Given a non negative integer number num.
 For every numbers i in the range 0 ≤ i ≤ num calculate the number of 1's in their binary representation and return them as an array.
 Input 5:
 Output: [0,1,1,2,1,2]
-Beats 83% in runtime
+Beats 99% in runtime
 */
 class Solution {
 public:
@@ -21,7 +21,7 @@ public:
         vector<int> count(num+1,0);
         for(int i=1;i<=num;i++)
         {
-            count.push_back(countOnes(i));
+            count[i]=countOnes(i);
         }
         return count;
     }
