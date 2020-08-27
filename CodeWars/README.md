@@ -3,7 +3,10 @@
 
 Code Warriors complete Kata which are assigned a rank, which in turn earns them a higher rank once they complete enough of them. There are two classes of ranks, Kyu and Dan. You begin with Kyu at level 8 and work your way down to level 1.
 
-**Some of my codewars solutions:** 
+**Some of my codewars solutions:**
+
+***1kyu:***
+- N queen problem for params up to N=1000 under 1,2s (C++)
 
 ***2kyu:***
 - Assembler interpreter part II (C++)
